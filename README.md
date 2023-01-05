@@ -1,2 +1,2 @@
-# desafio 02 python
- Desafio do módulo 2 do bootcamp Social Tech da Embraer
+# Desafio do Módulo 2
+    Realizar análise de uma base de dados real em Python.
